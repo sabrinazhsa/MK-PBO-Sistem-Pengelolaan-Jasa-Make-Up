@@ -15,7 +15,7 @@ Pada kedua jenis layanan tersebut memiliki karakteristik yang berbeda, baik dari
 |Make Up Pengantin |	Rp1.000.000 / sesi	| Harga Dasar × Jumlah Sesi + (Sanggul/Hairdo)	| Jumlah sesi rias, opsi Sanggul/Hairdo (+Rp200.000)|
 
 ## Penjelasan Hierarki Class
-Pada program ini terdiri dari empat class yang saling berkaitan. Struktur hierarki class tersebut, antara lain:
+Pada program ini terdiri dari empat class yang saling berkaitan. Struktur hierarki class tersebut adalah sebagai berikut:
 ```mermaid
 classDiagram
     class LayananMakeUp {
